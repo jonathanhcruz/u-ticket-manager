@@ -24,7 +24,7 @@ on the other hand, this app get more information of user like name, id of user a
 
 Each function is executed through commands in the terminal. Follow the on-screen instructions to add, update, list, or delete books, and to sort them according to your preferences.
 
-![Screenshot 2024-11-10 at 4 20 44 PM](https://github.com/user-attachments/assets/2c54eeb8-f70c-47b2-bbc0-5182326f21eb)
+![Screenshot 2024-11-22 at 10 35 37 PM](https://github.com/user-attachments/assets/b1618bc2-7d29-43b9-a03e-4653e4729013)
 
 
 ## Requirements
