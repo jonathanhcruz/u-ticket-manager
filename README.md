@@ -1,6 +1,6 @@
 # Terminal-Based Ticket Manager Project
 
-This project is a terminal-based application for managing a node list of tickets. It was developed as part of a university assignment for Compensar and allows users to list, add, update, delete, and sort books by various criteria. The data is mocked, and functionalities are organized into different packages for better structure and maintainability
+This project is a terminal-based application for managing a node list of tickets. It was developed as part of a university assignment for Compensar and allows users to list, add, and delete, user tickets by various criteria. the functionalities are organized into different packages for better structure and maintainability
 
 on the other hand, this app get more information of user like name, id of user and register the exact date that the user get the ticket and then register to the list.
 
